@@ -5,3 +5,12 @@ if(ture){
 }else{
   echo "<dir>not true</dir>;
 }
+calss test{
+  private $int_count;
+  function __construct(){
+    $this->int_count = 1;
+  }
+  function CountUp(){
+    $this->int_count++;
+  }
+}
