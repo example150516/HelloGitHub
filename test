@@ -2,4 +2,6 @@
 echo "<h1>HelloGitHub</h1>";
 if(ture){
   echo "<dir>test</dir>;
+}else{
+  echo "<dir>else</dir>;
 }
