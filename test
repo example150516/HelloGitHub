@@ -13,4 +13,7 @@ calss test{
   function CountUp(){
     $this->int_count++;
   }
+  function CountReset(){
+    $tis->int_count=0;
+  }
 }
